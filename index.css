@@ -1,23 +1,23 @@
 
 .square {
-  		width: 400px;
-  		height: 400px;
-  		background-color: black;
+width: 400px;
+height: 400px;
+background-color: black;
 
 
- 		position: relative;
-  	}
-  .image2 {
-    width: 50px;
-    height: 50px;
-    position: fixed;
-        top: 180px;
-        left: 430px;
-    }
+position: relative;
+}
+.image2 {
+width: 50px;
+height: 50px;
+position: fixed;
+top: 180px;
+left: 430px;
+}
 .tablo {width: 50px;
 height: 50px;
-	background-color: red;
-  border: 1px solid #fff;
-  box-shadow: 0 0 0 1px #A4A4A4;
+background-color: red;
+border: 1px solid #fff;
+box-shadow: 0 0 0 1px #A4A4A4;
 position: relative;
 }
