@@ -44,7 +44,7 @@ if (mod===1) {
     console.log(mod1+'модуль числа отрицательного');
   } else {
     var result = document.getElementById('result');
-    result.innerHTML = numbers[0];
+    result.innerHTML = numbers[0  ];
   }
 }
 }
